@@ -1,1 +1,2 @@
-import com.visionmc.*
+import com.visionmc.test
+import test
